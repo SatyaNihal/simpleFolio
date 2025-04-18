@@ -1,6 +1,7 @@
 # simpleFolio
 
   
+https://satyanihal.netlify.app/
 
 A simple portfolio website showcasing my projects, skills, and experiences.
 
